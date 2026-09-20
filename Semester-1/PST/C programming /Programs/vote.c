@@ -10,7 +10,6 @@ int main()
     {
         printf("can vote\n",a);
     }
-    printf("Execution end");
     
     return 0;
 } 
